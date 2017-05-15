@@ -1,0 +1,19 @@
+Autor: Kacper Nowacki
+
+Temat projektu: Aplikacja do organizacji finansów.
+
+Użytkownik będzie mógł dodać do aplikacji swoje paragony, na których znajdują się zakupione przez niego produktu.
+Aplikacja posortuje dane zawarte w paragonach ze względu na kategorię produktu
+(żywność, alkohol, usługi, urządzenia elektryczne itp.) i umieści je w bazie danych.
+Posortowane dane będzie wyświetlała w wybranej przez użytkownika formie:
+- diagram zawierający wszystkie grupy produktów z ich udziałem procentowym w całości wydatków,
+- ilość pieniędzy przeznaczona na daną grupę produktów,
+- suma wydanych pieniędzy.
+Wszystkie te dane użytkownik będzie mógł wyświetlić z wybranego przez siebie przedziału czasowego.
+Aplikacja umożliwi użytkownikowi pogląd na jego sprawy finansowe.
+Dzięki niej będzie mógł zobaczyć na co wydaje najwięcej.
+
+Technologie:
+- WPF
+- ASP.NET
+- SQL
